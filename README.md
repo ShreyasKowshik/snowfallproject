@@ -1,1 +1,1 @@
-# snowfallproject
+# snowfall-animation
